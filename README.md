@@ -5,7 +5,7 @@ Little Cheung Computer was created for my OCR A Level Computing Coursework (F454
 
 General Usage
 =============
-Open program by double clicking "Little Cheung Computer.exe"
+Open program by double clicking "LittleCheungComputer.exe"
 
 Assembly code (Refer to Instruction Set in "Help" drop down menu) can be entered in the left text box.
 
