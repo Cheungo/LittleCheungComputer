@@ -1,0 +1,13 @@
+F:\F454\LCC\newnewF454\bin\Release\Little Cheung Computer.exe.config
+F:\F454\LCC\newnewF454\bin\Release\Little Cheung Computer.exe
+F:\F454\LCC\newnewF454\bin\Release\Little Cheung Computer.pdb
+F:\F454\LCC\newnewF454\bin\Release\Little Cheung Computer.xml
+F:\F454\LCC\newnewF454\obj\x86\Release\Little Cheung Computer.vbprojResolveAssemblyReference.cache
+F:\F454\LCC\newnewF454\obj\x86\Release\newnewF454.AboutLMC.resources
+F:\F454\LCC\newnewF454\obj\x86\Release\newnewF454.InstructionSet.resources
+F:\F454\LCC\newnewF454\obj\x86\Release\newnewF454.LCC.resources
+F:\F454\LCC\newnewF454\obj\x86\Release\newnewF454.Resources.resources
+F:\F454\LCC\newnewF454\obj\x86\Release\Little Cheung Computer.vbproj.GenerateResource.Cache
+F:\F454\LCC\newnewF454\obj\x86\Release\Little Cheung Computer.exe
+F:\F454\LCC\newnewF454\obj\x86\Release\Little Cheung Computer.xml
+F:\F454\LCC\newnewF454\obj\x86\Release\Little Cheung Computer.pdb

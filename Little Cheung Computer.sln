@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Little Cheung Computer", "newnewF454\Little Cheung Computer.vbproj", "{612560FD-A239-47C2-9E8B-9BB4F664C8ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{612560FD-A239-47C2-9E8B-9BB4F664C8ED}.Debug|x86.ActiveCfg = Debug|x86
+		{612560FD-A239-47C2-9E8B-9BB4F664C8ED}.Debug|x86.Build.0 = Debug|x86
+		{612560FD-A239-47C2-9E8B-9BB4F664C8ED}.Release|x86.ActiveCfg = Release|x86
+		{612560FD-A239-47C2-9E8B-9BB4F664C8ED}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

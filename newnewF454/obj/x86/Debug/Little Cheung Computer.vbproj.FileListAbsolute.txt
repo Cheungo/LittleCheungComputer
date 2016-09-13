@@ -1,0 +1,85 @@
+D:\Documents\Visual Studio 2015\Projects\newnewF454\newnewF454\obj\x86\Debug\newnewF454.exe
+D:\Documents\Visual Studio 2015\Projects\newnewF454\newnewF454\obj\x86\Debug\newnewF454.xml
+D:\Documents\Visual Studio 2015\Projects\newnewF454\newnewF454\obj\x86\Debug\newnewF454.pdb
+D:\Documents\Visual Studio 2015\Projects\newnewF454\newnewF454\bin\Debug\newnewF454.exe
+D:\Documents\Visual Studio 2015\Projects\newnewF454\newnewF454\bin\Debug\newnewF454.pdb
+D:\Documents\Visual Studio 2015\Projects\newnewF454\newnewF454\bin\Debug\newnewF454.xml
+D:\Documents\Visual Studio 2015\Projects\newnewF454\newnewF454\obj\x86\Debug\newnewF454.LCC.resources
+D:\Documents\Visual Studio 2015\Projects\newnewF454\newnewF454\obj\x86\Debug\newnewF454.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\newnewF454\newnewF454\obj\x86\Debug\Little Cheung Computer.vbproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2015\Projects\newnewF454\newnewF454\obj\x86\Debug\Little Cheung Computer.vbprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\newnewF454 (Title unchanged)\newnewF454\obj\x86\Debug\newnewF454.exe
+D:\Documents\Visual Studio 2015\Projects\newnewF454 (Title unchanged)\newnewF454\obj\x86\Debug\newnewF454.xml
+D:\Documents\Visual Studio 2015\Projects\newnewF454 (Title unchanged)\newnewF454\obj\x86\Debug\newnewF454.pdb
+D:\Documents\Visual Studio 2015\Projects\newnewF454 (Title unchanged)\newnewF454\bin\Debug\newnewF454.exe
+D:\Documents\Visual Studio 2015\Projects\newnewF454 (Title unchanged)\newnewF454\bin\Debug\newnewF454.pdb
+D:\Documents\Visual Studio 2015\Projects\newnewF454 (Title unchanged)\newnewF454\bin\Debug\newnewF454.xml
+D:\Documents\Visual Studio 2015\Projects\newnewF454 (Title unchanged)\newnewF454\obj\x86\Debug\Little Cheung Computer.vbprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\newnewF454 (Title unchanged)\newnewF454\obj\x86\Debug\newnewF454.LCC.resources
+D:\Documents\Visual Studio 2015\Projects\newnewF454 (Title unchanged)\newnewF454\obj\x86\Debug\newnewF454.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\newnewF454 (Title unchanged)\newnewF454\obj\x86\Debug\Little Cheung Computer.vbproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2015\Projects\newnewF454 - Copy\newnewF454\bin\Debug\Little Cheung Computer.exe
+D:\Documents\Visual Studio 2015\Projects\newnewF454 - Copy\newnewF454\bin\Debug\Little Cheung Computer.pdb
+D:\Documents\Visual Studio 2015\Projects\newnewF454 - Copy\newnewF454\bin\Debug\Little Cheung Computer.xml
+D:\Documents\Visual Studio 2015\Projects\newnewF454 - Copy\newnewF454\obj\x86\Debug\Little Cheung Computer.vbprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\newnewF454 - Copy\newnewF454\obj\x86\Debug\newnewF454.LCC.resources
+D:\Documents\Visual Studio 2015\Projects\newnewF454 - Copy\newnewF454\obj\x86\Debug\newnewF454.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\newnewF454 - Copy\newnewF454\obj\x86\Debug\Little Cheung Computer.vbproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2015\Projects\newnewF454 - Copy\newnewF454\obj\x86\Debug\Little Cheung Computer.exe
+D:\Documents\Visual Studio 2015\Projects\newnewF454 - Copy\newnewF454\obj\x86\Debug\Little Cheung Computer.xml
+D:\Documents\Visual Studio 2015\Projects\newnewF454 - Copy\newnewF454\obj\x86\Debug\Little Cheung Computer.pdb
+D:\Documents\Visual Studio 2015\Projects\LMC\newnewF454\obj\x86\Debug\Little Cheung Computer.exe
+D:\Documents\Visual Studio 2015\Projects\LMC\newnewF454\obj\x86\Debug\Little Cheung Computer.xml
+D:\Documents\Visual Studio 2015\Projects\LMC\newnewF454\obj\x86\Debug\Little Cheung Computer.pdb
+D:\Documents\Visual Studio 2015\Projects\LMC\newnewF454\bin\Debug\Little Cheung Computer.exe
+D:\Documents\Visual Studio 2015\Projects\LMC\newnewF454\bin\Debug\Little Cheung Computer.pdb
+D:\Documents\Visual Studio 2015\Projects\LMC\newnewF454\bin\Debug\Little Cheung Computer.xml
+D:\Documents\Visual Studio 2015\Projects\LMC\newnewF454\obj\x86\Debug\Little Cheung Computer.vbprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\LMC\newnewF454\obj\x86\Debug\newnewF454.LCC.resources
+D:\Documents\Visual Studio 2015\Projects\LMC\newnewF454\obj\x86\Debug\newnewF454.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\LMC\newnewF454\obj\x86\Debug\Little Cheung Computer.vbproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2015\Projects\LMC\newnewF454\bin\Debug\Little Cheung Computer.exe.config
+F:\F454\LMC\newnewF454\bin\Debug\Little Cheung Computer.exe.config
+F:\F454\LMC\newnewF454\obj\x86\Debug\Little Cheung Computer.exe
+F:\F454\LMC\newnewF454\obj\x86\Debug\Little Cheung Computer.xml
+F:\F454\LMC\newnewF454\obj\x86\Debug\Little Cheung Computer.pdb
+F:\F454\LMC\newnewF454\bin\Debug\Little Cheung Computer.exe
+F:\F454\LMC\newnewF454\bin\Debug\Little Cheung Computer.pdb
+F:\F454\LMC\newnewF454\bin\Debug\Little Cheung Computer.xml
+F:\F454\LMC\newnewF454\obj\x86\Debug\Little Cheung Computer.vbprojResolveAssemblyReference.cache
+F:\F454\LMC\newnewF454\obj\x86\Debug\newnewF454.LCC.resources
+F:\F454\LMC\newnewF454\obj\x86\Debug\newnewF454.Resources.resources
+F:\F454\LMC\newnewF454\obj\x86\Debug\Little Cheung Computer.vbproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2015\Projects\LMC\newnewF454\obj\x86\Debug\newnewF454.InstructionSet.resources
+F:\F454\LMC\newnewF454\obj\x86\Debug\newnewF454.InstructionSet.resources
+F:\F454\LMC 1.0\newnewF454\bin\Debug\Little Cheung Computer.exe.config
+F:\F454\LMC 1.0\newnewF454\obj\x86\Debug\Little Cheung Computer.exe
+F:\F454\LMC 1.0\newnewF454\obj\x86\Debug\Little Cheung Computer.xml
+F:\F454\LMC 1.0\newnewF454\obj\x86\Debug\Little Cheung Computer.pdb
+F:\F454\LMC\newnewF454\obj\x86\Debug\newnewF454.AboutLMC.resources
+F:\F454\LCC\newnewF454\bin\Debug\Little Cheung Computer.exe.config
+F:\F454\LCC\newnewF454\obj\x86\Debug\Little Cheung Computer.exe
+F:\F454\LCC\newnewF454\obj\x86\Debug\Little Cheung Computer.xml
+F:\F454\LCC\newnewF454\obj\x86\Debug\Little Cheung Computer.pdb
+F:\F454\LCC\newnewF454\bin\Debug\Little Cheung Computer.exe
+F:\F454\LCC\newnewF454\bin\Debug\Little Cheung Computer.pdb
+F:\F454\LCC\newnewF454\bin\Debug\Little Cheung Computer.xml
+F:\F454\LCC\newnewF454\obj\x86\Debug\Little Cheung Computer.vbprojResolveAssemblyReference.cache
+F:\F454\LCC\newnewF454\obj\x86\Debug\newnewF454.AboutLMC.resources
+F:\F454\LCC\newnewF454\obj\x86\Debug\newnewF454.InstructionSet.resources
+F:\F454\LCC\newnewF454\obj\x86\Debug\newnewF454.LCC.resources
+F:\F454\LCC\newnewF454\obj\x86\Debug\newnewF454.Resources.resources
+F:\F454\LCC\newnewF454\obj\x86\Debug\Little Cheung Computer.vbproj.GenerateResource.Cache
+E:\F454\LCC\newnewF454\bin\Debug\Little Cheung Computer.exe.config
+E:\F454\LCC\newnewF454\obj\x86\Debug\Little Cheung Computer.exe
+E:\F454\LCC\newnewF454\obj\x86\Debug\Little Cheung Computer.xml
+E:\F454\LCC\newnewF454\obj\x86\Debug\Little Cheung Computer.pdb
+E:\F454\LCC\newnewF454\bin\Debug\Little Cheung Computer.exe
+E:\F454\LCC\newnewF454\bin\Debug\Little Cheung Computer.pdb
+E:\F454\LCC\newnewF454\bin\Debug\Little Cheung Computer.xml
+E:\F454\LCC\newnewF454\obj\x86\Debug\Little Cheung Computer.vbprojResolveAssemblyReference.cache
+E:\F454\LCC\newnewF454\obj\x86\Debug\newnewF454.AboutLMC.resources
+E:\F454\LCC\newnewF454\obj\x86\Debug\newnewF454.InstructionSet.resources
+E:\F454\LCC\newnewF454\obj\x86\Debug\newnewF454.LCC.resources
+E:\F454\LCC\newnewF454\obj\x86\Debug\newnewF454.Resources.resources
+E:\F454\LCC\newnewF454\obj\x86\Debug\Little Cheung Computer.vbproj.GenerateResource.Cache

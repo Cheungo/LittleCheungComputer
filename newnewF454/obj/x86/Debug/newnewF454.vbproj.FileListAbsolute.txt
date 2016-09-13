@@ -1,0 +1,73 @@
+D:\Documents\Visual Studio 2015\Projects\newnewF454\newnewF454\bin\Debug\newnewF454.exe
+D:\Documents\Visual Studio 2015\Projects\newnewF454\newnewF454\bin\Debug\newnewF454.pdb
+D:\Documents\Visual Studio 2015\Projects\newnewF454\newnewF454\bin\Debug\newnewF454.xml
+D:\Documents\Visual Studio 2015\Projects\newnewF454\newnewF454\obj\x86\Debug\newnewF454.vbprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\newnewF454\newnewF454\obj\x86\Debug\newnewF454.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\newnewF454\newnewF454\obj\x86\Debug\newnewF454.vbproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2015\Projects\newnewF454\newnewF454\obj\x86\Debug\newnewF454.exe
+D:\Documents\Visual Studio 2015\Projects\newnewF454\newnewF454\obj\x86\Debug\newnewF454.xml
+D:\Documents\Visual Studio 2015\Projects\newnewF454\newnewF454\obj\x86\Debug\newnewF454.pdb
+U:\Visual Studio 2010\Projects\newnewF454\newnewF454\obj\x86\Debug\newnewF454.exe
+U:\Visual Studio 2010\Projects\newnewF454\newnewF454\obj\x86\Debug\newnewF454.xml
+U:\Visual Studio 2010\Projects\newnewF454\newnewF454\obj\x86\Debug\newnewF454.pdb
+U:\Visual Studio 2010\Projects\newnewF454\newnewF454\bin\Debug\newnewF454.exe
+U:\Visual Studio 2010\Projects\newnewF454\newnewF454\bin\Debug\newnewF454.pdb
+U:\Visual Studio 2010\Projects\newnewF454\newnewF454\bin\Debug\newnewF454.xml
+U:\Visual Studio 2010\Projects\newnewF454\newnewF454\obj\x86\Debug\newnewF454.vbprojResolveAssemblyReference.cache
+U:\Visual Studio 2010\Projects\newnewF454\newnewF454\obj\x86\Debug\newnewF454.Form1.resources
+U:\Visual Studio 2010\Projects\newnewF454\newnewF454\obj\x86\Debug\newnewF454.Resources.resources
+U:\Visual Studio 2010\Projects\newnewF454\newnewF454\obj\x86\Debug\newnewF454.vbproj.GenerateResource.Cache
+\\Canon-Store\Pupils$\Group_B\B-CHEUNG-L\Visual Studio 2010\Projects\newnewF454\newnewF454\obj\x86\Debug\newnewF454.exe
+\\Canon-Store\Pupils$\Group_B\B-CHEUNG-L\Visual Studio 2010\Projects\newnewF454\newnewF454\obj\x86\Debug\newnewF454.xml
+\\Canon-Store\Pupils$\Group_B\B-CHEUNG-L\Visual Studio 2010\Projects\newnewF454\newnewF454\obj\x86\Debug\newnewF454.pdb
+\\Canon-Store\Pupils$\Group_B\B-CHEUNG-L\Visual Studio 2010\Projects\newnewF454\newnewF454\bin\Debug\newnewF454.exe
+\\Canon-Store\Pupils$\Group_B\B-CHEUNG-L\Visual Studio 2010\Projects\newnewF454\newnewF454\bin\Debug\newnewF454.pdb
+\\Canon-Store\Pupils$\Group_B\B-CHEUNG-L\Visual Studio 2010\Projects\newnewF454\newnewF454\bin\Debug\newnewF454.xml
+\\Canon-Store\Pupils$\Group_B\B-CHEUNG-L\Visual Studio 2010\Projects\newnewF454\newnewF454\obj\x86\Debug\newnewF454.vbprojResolveAssemblyReference.cache
+\\Canon-Store\Pupils$\Group_B\B-CHEUNG-L\Visual Studio 2010\Projects\newnewF454\newnewF454\obj\x86\Debug\newnewF454.Form1.resources
+\\Canon-Store\Pupils$\Group_B\B-CHEUNG-L\Visual Studio 2010\Projects\newnewF454\newnewF454\obj\x86\Debug\newnewF454.Resources.resources
+\\Canon-Store\Pupils$\Group_B\B-CHEUNG-L\Visual Studio 2010\Projects\newnewF454\newnewF454\obj\x86\Debug\newnewF454.vbproj.GenerateResource.Cache
+D:\F454\newnewF454\newnewF454\obj\x86\Debug\newnewF454.exe
+D:\F454\newnewF454\newnewF454\obj\x86\Debug\newnewF454.xml
+D:\F454\newnewF454\newnewF454\obj\x86\Debug\newnewF454.pdb
+E:\F454\newnewF454\newnewF454\obj\x86\Debug\newnewF454.exe
+E:\F454\newnewF454\newnewF454\obj\x86\Debug\newnewF454.xml
+E:\F454\newnewF454\newnewF454\obj\x86\Debug\newnewF454.pdb
+E:\F454\newnewF454\newnewF454\bin\Debug\newnewF454.exe
+E:\F454\newnewF454\newnewF454\bin\Debug\newnewF454.pdb
+E:\F454\newnewF454\newnewF454\bin\Debug\newnewF454.xml
+E:\F454\newnewF454\newnewF454\obj\x86\Debug\newnewF454.vbprojResolveAssemblyReference.cache
+E:\F454\newnewF454\newnewF454\obj\x86\Debug\newnewF454.Form1.resources
+E:\F454\newnewF454\newnewF454\obj\x86\Debug\newnewF454.Resources.resources
+E:\F454\newnewF454\newnewF454\obj\x86\Debug\newnewF454.vbproj.GenerateResource.Cache
+F:\F454\newnewF454\newnewF454\obj\x86\Debug\newnewF454.exe
+F:\F454\newnewF454\newnewF454\obj\x86\Debug\newnewF454.xml
+F:\F454\newnewF454\newnewF454\obj\x86\Debug\newnewF454.pdb
+C:\Users\HPS19\Documents\Visual Studio 2015\Projects\newnewF454\newnewF454\obj\x86\Debug\newnewF454.exe
+C:\Users\HPS19\Documents\Visual Studio 2015\Projects\newnewF454\newnewF454\obj\x86\Debug\newnewF454.xml
+C:\Users\HPS19\Documents\Visual Studio 2015\Projects\newnewF454\newnewF454\obj\x86\Debug\newnewF454.pdb
+C:\Users\HPS19\Documents\Visual Studio 2015\Projects\newnewF454\newnewF454\bin\Debug\newnewF454.exe
+C:\Users\HPS19\Documents\Visual Studio 2015\Projects\newnewF454\newnewF454\bin\Debug\newnewF454.pdb
+C:\Users\HPS19\Documents\Visual Studio 2015\Projects\newnewF454\newnewF454\bin\Debug\newnewF454.xml
+C:\Users\HPS19\Documents\Visual Studio 2015\Projects\newnewF454\newnewF454\obj\x86\Debug\newnewF454.vbprojResolveAssemblyReference.cache
+C:\Users\HPS19\Documents\Visual Studio 2015\Projects\newnewF454\newnewF454\obj\x86\Debug\newnewF454.Form1.resources
+C:\Users\HPS19\Documents\Visual Studio 2015\Projects\newnewF454\newnewF454\obj\x86\Debug\newnewF454.Resources.resources
+C:\Users\HPS19\Documents\Visual Studio 2015\Projects\newnewF454\newnewF454\obj\x86\Debug\newnewF454.vbproj.GenerateResource.Cache
+D:\F454\newnewF454\newnewF454\bin\Debug\newnewF454.exe
+D:\F454\newnewF454\newnewF454\bin\Debug\newnewF454.pdb
+D:\F454\newnewF454\newnewF454\bin\Debug\newnewF454.xml
+D:\F454\newnewF454\newnewF454\obj\x86\Debug\newnewF454.vbprojResolveAssemblyReference.cache
+D:\F454\newnewF454\newnewF454\obj\x86\Debug\newnewF454.Form1.resources
+D:\F454\newnewF454\newnewF454\obj\x86\Debug\newnewF454.Resources.resources
+D:\F454\newnewF454\newnewF454\obj\x86\Debug\newnewF454.vbproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2015\Projects\newnewF454 - Copy\newnewF454\obj\x86\Debug\newnewF454.exe
+D:\Documents\Visual Studio 2015\Projects\newnewF454 - Copy\newnewF454\obj\x86\Debug\newnewF454.xml
+D:\Documents\Visual Studio 2015\Projects\newnewF454 - Copy\newnewF454\obj\x86\Debug\newnewF454.pdb
+D:\Documents\Visual Studio 2015\Projects\newnewF454 - Copy\newnewF454\obj\x86\Debug\newnewF454.vbprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\newnewF454 - Copy\newnewF454\obj\x86\Debug\newnewF454.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\newnewF454 - Copy\newnewF454\obj\x86\Debug\newnewF454.vbproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2015\Projects\newnewF454 - Copy\newnewF454\bin\Debug\newnewF454.exe
+D:\Documents\Visual Studio 2015\Projects\newnewF454 - Copy\newnewF454\bin\Debug\newnewF454.pdb
+D:\Documents\Visual Studio 2015\Projects\newnewF454 - Copy\newnewF454\bin\Debug\newnewF454.xml
+D:\Documents\Visual Studio 2015\Projects\newnewF454 - Copy\newnewF454\obj\x86\Debug\newnewF454.LCC.resources
+D:\Documents\Visual Studio 2015\Projects\newnewF454\newnewF454\obj\x86\Debug\newnewF454.LCC.resources
