@@ -19,9 +19,12 @@ The "Accumulator" stores temporary results of arithmetic calculations.
 
 
 Example program:
-INP (Input - enter an input in the input box. Input is stored in the accumulator; just like in a CPU)
-OUT (Output - displays the output in the output box. Output is retrieved from the accumulator)
-HLT (Halt - stops the program)
+INP 
+(Input - enter an input in the input box. Input is stored in the accumulator; just like in a CPU)
+OUT 
+(Output - displays the output in the output box. Output is retrieved from the accumulator)
+HLT 
+(Halt - stops the program)
 
 
 The text boxes on the right are "Registers". They are used to hold temporary data to be used when processing instructions - including storing the actual instruction. 
