@@ -19,11 +19,11 @@ The "Accumulator" stores temporary results of arithmetic calculations.
 
 
 Example program:
-INP 
+	INP 
 (Input - enter an input in the input box. Input is stored in the accumulator; just like in a CPU)
-OUT 
+	OUT 
 (Output - displays the output in the output box. Output is retrieved from the accumulator)
-HLT 
+	HLT 
 (Halt - stops the program)
 
 
